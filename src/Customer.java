@@ -8,4 +8,9 @@ public class Customer {
     {
         System.out.println("Funkcja 2");
     }
+
+    public void funkcja3()
+    {
+        System.out.println("Funkcja 3");
+    }
 }
