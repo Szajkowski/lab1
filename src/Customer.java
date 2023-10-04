@@ -3,4 +3,9 @@ public class Customer {
     {
         System.out.println("Funkcja 1");
     }
+
+    public void funkcja2()
+    {
+        System.out.println("Funkcja 2");
+    }
 }
