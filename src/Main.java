@@ -7,6 +7,6 @@ public class Main {
 
          static void rzecz()
         {
-            System.out.println("Woooooooo");
+            System.out.println("Woooooooo" + "1");
         }
 }
