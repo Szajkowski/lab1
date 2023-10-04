@@ -9,4 +9,9 @@ public class Main {
         {
             System.out.println("Woooooooo" + "xd");
         }
+
+        public static void rzecz2(String name)
+        {
+            System.out.println(name);
+        }
 }
